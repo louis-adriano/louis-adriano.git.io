@@ -1,52 +1,59 @@
 baseURL = "https://louis-adriano.git.io"
 languageCode = "en-us"
-title = "Your Name - Professional Portfolio"
+title = "Louis Adriano - Full Stack Developer"
 theme = "papermod"
 
-# Enable search
-[outputs]
-home = ["HTML", "RSS", "JSON"]
-
 [params]
-defaultTheme = "auto"
-ShowPostNavLinks = true
-ShowBreadCrumbs = true
-ShowShareButtons = true
+  defaultTheme = "auto"
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowShareButtons = true
+  ShowReadingTime = true
 
-# Profile Mode Parameters
 [params.profileMode]
-enabled = true
-title = "Your Name"
-subtitle = "Your Professional Title"
-imageUrl = "/images/profile.jpg"
-imageTitle = "my picture"
-
-# Profile Mode Buttons
-[[params.profileMode.buttons]]
-name = "Portfolio"
-url = "/portfolio"
+  enabled = true
+  title = "Louis Adriano"
+  subtitle = "Full Stack Developer | AI Enthusiast | Open Source Contributor"
+  imageUrl = "/images/profile.jpg"
+  imageWidth = 120
+  imageHeight = 120
 
 [[params.profileMode.buttons]]
-name = "Blog"
-url = "/blog"
+  name = "Portfolio"
+  url = "/portfolio"
 
-# Main Menu Items
-[[menu.main]]
-name = "About"
-url = "/about"
-weight = 1
+[[params.profileMode.buttons]]
+  name = "Blog"
+  url = "/blog"
+
+[[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/louisadriano"
+
+[[params.socialIcons]]
+  name = "linkedin"
+  url = "https://linkedin.com/in/louisadriano"
+
+[[params.socialIcons]]
+  name = "twitter"
+  url = "https://twitter.com/louisadriano"
 
 [[menu.main]]
-name = "Portfolio"
-url = "/portfolio"
-weight = 2
+  name = "About"
+  url = "/about"
+  weight = 1
 
 [[menu.main]]
-name = "Blog"
-url = "/blog"
-weight = 3
+  name = "Portfolio"
+  url = "/portfolio"
+  weight = 2
 
 [[menu.main]]
-name = "Contact"
-url = "/contact"
-weight = 4
+  name = "Blog"
+  url = "/blog"
+  weight = 3
+
+[[menu.main]]
+  name = "Contact"
+  url = "/contact"
+  weight = 4
