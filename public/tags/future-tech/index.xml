@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Future Tech on Louis Adriano - Full Stack Developer</title><link>https://louis-adriano.git.io/tags/future-tech/</link><description>Recent content in Future Tech on Louis Adriano - Full Stack Developer</description><generator>Hugo -- 0.143.1</generator><language>en-us</language><lastBuildDate>Sat, 10 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://louis-adriano.git.io/tags/future-tech/index.xml" rel="self" type="application/rss+xml"/><item><title>The Future of AI in Web Development</title><link>https://louis-adriano.git.io/blog/future-of-ai/</link><pubDate>Sat, 10 Feb 2024 00:00:00 +0000</pubDate><guid>https://louis-adriano.git.io/blog/future-of-ai/</guid><description>Exploring how AI is shaping the future of web development and what developers need to know</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Future Tech on Louis Adriano - Full Stack Developer</title>
+    <link>https://louis-adriano-git-io.vercel.app/tags/future-tech/</link>
+    <description>Recent content in Future Tech on Louis Adriano - Full Stack Developer</description>
+    <generator>Hugo -- 0.143.1</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://louis-adriano-git-io.vercel.app/tags/future-tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Future of AI in Web Development</title>
+      <link>https://louis-adriano-git-io.vercel.app/blog/future-of-ai/</link>
+      <pubDate>Sat, 10 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://louis-adriano-git-io.vercel.app/blog/future-of-ai/</guid>
+      <description>Exploring how AI is shaping the future of web development and what developers need to know</description>
+    </item>
+  </channel>
+</rss>

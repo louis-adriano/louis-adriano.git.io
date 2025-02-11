@@ -1,1 +1,44 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>https://louis-adriano.git.io/portfolio/</loc><lastmod>2024-01-15T00:00:00+00:00</lastmod></url><url><loc>https://louis-adriano.git.io/</loc><lastmod>2025-02-11T22:52:10+11:00</lastmod></url><url><loc>https://louis-adriano.git.io/tags/ai/</loc><lastmod>2024-02-10T00:00:00+00:00</lastmod></url><url><loc>https://louis-adriano.git.io/tags/future-tech/</loc><lastmod>2024-02-10T00:00:00+00:00</lastmod></url><url><loc>https://louis-adriano.git.io/tags/</loc><lastmod>2024-02-10T00:00:00+00:00</lastmod></url><url><loc>https://louis-adriano.git.io/blog/future-of-ai/</loc><lastmod>2024-02-10T00:00:00+00:00</lastmod></url><url><loc>https://louis-adriano.git.io/tags/web-development/</loc><lastmod>2024-02-10T00:00:00+00:00</lastmod></url><url><loc>https://louis-adriano.git.io/tags/aws/</loc><lastmod>2024-01-15T00:00:00+00:00</lastmod></url><url><loc>https://louis-adriano.git.io/tags/node.js/</loc><lastmod>2024-01-15T00:00:00+00:00</lastmod></url><url><loc>https://louis-adriano.git.io/tags/react/</loc><lastmod>2024-01-15T00:00:00+00:00</lastmod></url><url><loc>https://louis-adriano.git.io/tags/tensorflow/</loc><lastmod>2024-01-15T00:00:00+00:00</lastmod></url><url><loc>https://louis-adriano.git.io/about/</loc></url><url><loc>https://louis-adriano.git.io/categories/</loc></url><url><loc>https://louis-adriano.git.io/contact/</loc></url></urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://louis-adriano-git-io.vercel.app/portfolio/</loc>
+    <lastmod>2024-01-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://louis-adriano-git-io.vercel.app/</loc>
+    <lastmod>2025-02-11T22:52:10+11:00</lastmod>
+  </url><url>
+    <loc>https://louis-adriano-git-io.vercel.app/tags/ai/</loc>
+    <lastmod>2024-02-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://louis-adriano-git-io.vercel.app/tags/future-tech/</loc>
+    <lastmod>2024-02-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://louis-adriano-git-io.vercel.app/tags/</loc>
+    <lastmod>2024-02-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://louis-adriano-git-io.vercel.app/blog/future-of-ai/</loc>
+    <lastmod>2024-02-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://louis-adriano-git-io.vercel.app/tags/web-development/</loc>
+    <lastmod>2024-02-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://louis-adriano-git-io.vercel.app/tags/aws/</loc>
+    <lastmod>2024-01-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://louis-adriano-git-io.vercel.app/tags/node.js/</loc>
+    <lastmod>2024-01-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://louis-adriano-git-io.vercel.app/tags/react/</loc>
+    <lastmod>2024-01-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://louis-adriano-git-io.vercel.app/tags/tensorflow/</loc>
+    <lastmod>2024-01-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://louis-adriano-git-io.vercel.app/about/</loc>
+  </url><url>
+    <loc>https://louis-adriano-git-io.vercel.app/categories/</loc>
+  </url><url>
+    <loc>https://louis-adriano-git-io.vercel.app/contact/</loc>
+  </url>
+</urlset>
