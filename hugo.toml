@@ -1,4 +1,4 @@
-baseURL = "https://louis-adriano.git.io"
+baseURL = "https://louis-adriano-git-io.vercel.app"
 languageCode = "en-us"
 title = "Louis Adriano - Full Stack Developer"
 theme = "papermod"
