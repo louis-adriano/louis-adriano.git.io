@@ -1,3 +1,52 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = "https://louis-adriano.git.io"
+languageCode = "en-us"
+title = "Your Name - Professional Portfolio"
+theme = "papermod"
+
+# Enable search
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+
+[params]
+defaultTheme = "auto"
+ShowPostNavLinks = true
+ShowBreadCrumbs = true
+ShowShareButtons = true
+
+# Profile Mode Parameters
+[params.profileMode]
+enabled = true
+title = "Your Name"
+subtitle = "Your Professional Title"
+imageUrl = "/images/profile.jpg"
+imageTitle = "my picture"
+
+# Profile Mode Buttons
+[[params.profileMode.buttons]]
+name = "Portfolio"
+url = "/portfolio"
+
+[[params.profileMode.buttons]]
+name = "Blog"
+url = "/blog"
+
+# Main Menu Items
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 1
+
+[[menu.main]]
+name = "Portfolio"
+url = "/portfolio"
+weight = 2
+
+[[menu.main]]
+name = "Blog"
+url = "/blog"
+weight = 3
+
+[[menu.main]]
+name = "Contact"
+url = "/contact"
+weight = 4

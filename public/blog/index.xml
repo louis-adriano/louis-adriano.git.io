@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Blog on Your Name - Professional Portfolio</title>
+    <link>http://localhost:1313/blog/</link>
+    <description>Recent content in Blog on Your Name - Professional Portfolio</description>
+    <generator>Hugo -- 0.143.1</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 11 Feb 2025 22:52:10 +1100</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/blog/my-first-post/</link>
+      <pubDate>Tue, 11 Feb 2025 22:52:10 +1100</pubDate>
+      <guid>http://localhost:1313/blog/my-first-post/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
